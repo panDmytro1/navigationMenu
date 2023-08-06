@@ -1,0 +1,11 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="11.0714" width="7.5" height="7.5" rx="3.75" fill="white"/>
+<rect x="11.0714" y="22.5" width="7.5" height="7.5" rx="3.75" fill="white"/>
+<rect x="1.45621" y="7.15347" width="7.5" height="7.5" rx="3.75" transform="rotate(-45 1.45621 7.15347)" fill="white"/>
+<rect x="17.58" y="22.8465" width="7.5" height="7.5" rx="3.75" transform="rotate(-45 17.58 22.8465)" fill="white"/>
+<rect x="22.5" y="11.0714" width="7.5" height="7.5" rx="3.75" fill="white"/>
+<rect y="11.0714" width="7.5" height="7.5" rx="3.75" fill="white"/>
+<rect x="17.643" y="6.85786" width="7.5" height="7.5" rx="3.75" transform="rotate(-45 17.643 6.85786)" fill="white"/>
+<rect x="1.7504" y="22.785" width="7.5" height="7.5" rx="3.75" transform="rotate(-45 1.7504 22.785)" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.8214 26.0714C21.0346 26.0714 26.0714 21.0346 26.0714 14.8214C26.0714 8.60822 21.0346 3.57143 14.8214 3.57143C8.60824 3.57143 3.57144 8.60822 3.57144 14.8214C3.57144 21.0346 8.60824 26.0714 14.8214 26.0714ZM14.8215 20.3572C17.8787 20.3572 20.3572 17.8787 20.3572 14.8214C20.3572 11.7641 17.8787 9.28572 14.8215 9.28572C11.7642 9.28572 9.28574 11.7641 9.28574 14.8214C9.28574 17.8787 11.7642 20.3572 14.8215 20.3572Z" fill="white"/>
+</svg>
